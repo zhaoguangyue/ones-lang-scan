@@ -1,0 +1,21 @@
+[
+  {
+    "path": "/Users/zhaoguangyue/project/langTransform/lang/*.json",
+    "fileType": "json",
+    "sourceLang": "en",
+    "sheetName": "后端语言表"
+  },
+  {
+    "path": "/Users/zhaoguangyue/project/langTransform/lang1/*.json",
+    "fileType": "json",
+    "sourceLang": "en",
+    "sheetName": "后端语言表1"
+  },
+  {
+    "path": "/Users/zhaoguangyue/project/ones-project-web/ones-ai-web-common/packages/lang/locale",
+    "scriptPath": "/Users/zhaoguangyue/project/ones-project-web/ones-ai-web-common/node-scripts/lang-scan/excel",
+    "fileType": "js",
+    "sourceLang": "zh",
+    "sheetName": "前端表"
+  }
+]
